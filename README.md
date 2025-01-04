@@ -11,7 +11,6 @@ This is a full-stack application for managing users with a front-end built using
   - [2. Configuring and Running the Client](#2-configuring-and-running-the-client)
   - [3. Configuring and Running the Server](#3-configuring-and-running-the-server)
 - [Usage](#usage)
-- [License](#license)
 
 ## Features
 
@@ -160,9 +159,6 @@ After following the setup instructions, you can access the application by naviga
 - **Edit User:** Click the "Edit" button next to a user entry to update their details.
 - **Delete User:** Click the "Delete" button next to a user entry to remove them from the list.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
